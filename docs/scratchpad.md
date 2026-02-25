@@ -1,0 +1,8 @@
+- explore the data (structure, metadata)
+- ideate & brainstorm
+- create a beautiful website
+- experiment Claude Code-first in terminal
+  - claude.md file
+  - skills
+  - plugins
+  - etc.
